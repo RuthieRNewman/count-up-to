@@ -20,8 +20,6 @@ To open the site in a browser from the terminal, run the command: ‘open index.
 ## Known Bug
 There are no known bugs at this time. 
 
-
-
 ## Support and contact details
 
 If you have any questions or comments please contact Ruthie Newman via Github at RuthieRNewman and Matt Mcfarland via Github at HeyImMatt. Feedback and contributions are welcomed!
