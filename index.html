@@ -9,35 +9,29 @@
     <script src="js/jquery-3.5.1.js"></script>
     <script src="js/scripts.js"></script>
 </head>
-
 <body>
   <div class="container">
-    <div class ="row">
-      <h1>This is a Count up to Counter!</h1>
-  <form id="counter">
+      <div class="jumbotron">
+        <h2><strong>Count up to Calculator!</strong></h2><br>
+      </div>
+      <form id="counter">
+        <div class="form-group">
+          <label for="num1">Enter the number to which we will be counting up to:</label> 
+          <input id="num1" type="number"></input> 
+        </div><br>
 
-  <div class="form-control">
-    <label for="num1">Enter the number to which we will be counting up to:</label> 
-    <input id="num1" type="text"></input> 
-  </div><br>
-
-  <div class="form-control">
-    <label for="num2">Enter a number by which we will be counting:</label> 
-    <input id="num2" type="text"></input> 
-  </div>
-</div>
-<br>
-  <button type="submit" class="btn">Submit</button>
-  </form>
-
-  <div>
-    <h3>Your numbers are:</h3>
-    <ul id="output"></ul>
-
-  </div>
-</div>
+        <div class="form-group">
+          <label for="num2">Enter a number by which we will be counting:</label> 
+          <input id="num2" type="number"></input> 
+        </div><br>
   
- 
-  
+        <button type="submit" class="btn">Submit</button>
+      </form>
+
+      <div>
+        <h3>Your numbers are:</h3>
+        <ul id="output"></ul>
+      </div>    
+  </div> 
 </body>
 </html>
