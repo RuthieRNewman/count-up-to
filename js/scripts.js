@@ -11,5 +11,6 @@ $(document).ready(function(){
       console.log(index);
    // alert (index);
     $("#output").append("<li>" + index + "</li>");
-  }
-  })
+    }
+    });
+  });

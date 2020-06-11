@@ -10,17 +10,23 @@ This site was created to meet the parameters of an assignment on writing 'For Lo
 
 ## Setup/Installation Requirements
 
-Clone the repository from GitHub:  
-Open the repository in a text editor, such as VS Code or atom. 
+1. To access the project:
 
-To view the site:
-Drag and drop the index.html file into a browser
-To open the site in a browser from the terminal, run the command: ‘open index.html’ in the terminal prompt. 
+    *Clone the repository from GitHub: 
+
+    *Open the repository in a text editor, such as VS Code or atom. 
+
+2. To view the site:
+
+    *Drag and drop the index.html file into a browser
+
+    *To open the site in a browser from the terminal, run the command: ‘open index.html’ in the terminal prompt. 
 
 ## Known Bug
+
 There are no known bugs at this time. 
 
-## Support and contact details
+## Support and contact details.
 
 If you have any questions or comments please contact Ruthie Newman via Github at RuthieRNewman and Matt Mcfarland via Github at HeyImMatt. Feedback and contributions are welcomed!
 
