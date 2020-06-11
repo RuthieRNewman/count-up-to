@@ -2,7 +2,7 @@
 
 #### This is a site built for an assignment on how to write 'For Loops' in Javascript in the Epicodus curriculum, 06/09/2020
 
-#### By ** Ruthie Newman, Matt McFarland **
+#### By **Ruthie Newman, Matt McFarland**
 
 ## Description
 
