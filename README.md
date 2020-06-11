@@ -8,7 +8,7 @@
 
 This site was created to meet the parameters of an assignment on writing 'For Loops' in Javascript in the Epicodus curriculum. It was created to prompt and capture 2 number inputs from the user and count up from the first number according to the value of the second number using a 'For Loop.'
 
-[Follow this link](https://ruthiernewman.github.io/count-up-by) to view the project live on gh-pages.
+[Follow this link](https://ruthiernewman.github.io/count-up-to) to view the project live on gh-pages.
 
 ## Setup/Installation Requirements
 
